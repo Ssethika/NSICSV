@@ -1,0 +1,25 @@
+Name;Type1;Type2;Attack;Defense;Sp. Attack;Sp. Defense
+Sandshrew;Ground;None;75;85;20;30
+Sandslash;Ground;None;100;110;45;55
+Nidoran♀;Poison;None;47;52;40;40
+Nidorina;Poison;None;62;67;55;55
+Nidoqueen;Poison;Ground;92;87;75;85
+Nidoran♂;Poison;None;57;40;40;40
+Nidorino;Poison;None;72;57;55;55
+Nidoking;Poison;Ground;102;77;85;75
+Clefairy;Fairy;None;45;48;60;65
+Clefable;Fairy;None;70;73;95;90
+Vulpix;Fire;None;41;40;50;65
+Ninetales;Fire;None;76;75;81;100
+Jigglypuff;Normal;Fairy;45;20;45;25
+Wigglytuff;Normal;Fairy;70;45;85;50
+Zubat;Poison;Flying;45;35;30;40
+Golbat;Poison;Flying;80;70;65;75
+Oddish;Grass;Poison;50;55;75;65
+Gloom;Grass;Poison;65;70;85;75
+Vileplume;Grass;Poison;80;85;110;90
+Paras;Bug;Grass;70;55;45;55
+Parasect;Bug;Grass;95;80;60;80
+Venonat;Bug;Poison;55;50;40;55
+Venomoth;Bug;Poison;65;60;90;75
+Pidgey;Normal;Flying;45;40;35;35

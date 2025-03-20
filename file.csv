@@ -1,0 +1,26 @@
+Name;Type1;Type2;Attack;Defense;Sp. Attack;Sp. Defense
+Bulbasaur;Grass;Poison;49;49;65;65
+Ivysaur;Grass;Poison;62;63;80;80
+Venusaur;Grass;Poison;82;83;100;100
+Charmander;Fire;None;52;43;60;50
+Charmeleon;Fire;None;64;58;80;65
+Charizard;Fire;Flying;84;78;109;85
+Squirtle;Water;None;48;65;50;64
+Wartortle;Water;None;63;80;65;80
+Blastoise;Water;None;83;100;85;105
+Caterpie;Bug;None;30;35;20;20
+Metapod;Bug;None;20;55;25;25
+Butterfree;Bug;Flying;45;50;90;80
+Weedle;Bug;Poison;35;30;20;20
+Kakuna;Bug;Poison;25;50;25;25
+Beedrill;Bug;Poison;90;40;45;80
+Pidgey;Normal;Flying;45;40;35;35
+Pidgeotto;Normal;Flying;60;55;50;50
+Pidgeot;Normal;Flying;80;75;70;70
+Rattata;Normal;None;56;35;25;35
+Raticate;Normal;None;81;60;50;70
+Spearow;Normal;Flying;60;30;31;31
+Fearow;Normal;Flying;90;65;61;61
+Ekans;Poison;None;60;44;40;54
+Arbok;Poison;None;85;69;65;79
+Pikachu;Electric;None;55;40;50;50
