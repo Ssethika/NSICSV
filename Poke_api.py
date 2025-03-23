@@ -1,6 +1,8 @@
 from webbrowser import Error
 import requests
 
+"""Important functions to get api information"""
+
 def get_pokemon_info(name: str):
     url = f"https://pokeapi.co/api/v2/pokemon/{name.strip().lower()}"
 

@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a2d5bd3-d6d9-46d2-9d50-8048dac46de7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Application.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSVFileFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSVFileManagement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageLoader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poke_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Widget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageLoader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Widget.py" beforeDir="false" afterPath="$PROJECT_DIR$/Widget.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ssethika"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ssethika/NSICSV.git",
+    "accountId": "ef9c3c78-3503-4266-8c16-d203ebdd04d2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>

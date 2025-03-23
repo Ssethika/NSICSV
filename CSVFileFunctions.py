@@ -1,6 +1,7 @@
 import csv
 
 class CSVFileFunctions:
+    """Class that manages read and write to csv files"""
     @staticmethod
     def read_csv_file_to_file(file_name: str):
         with open(file_name, mode="r", newline="") as file:

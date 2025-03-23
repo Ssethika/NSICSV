@@ -2,7 +2,7 @@ from CSVFileFunctions import CSVFileFunctions
 import csv
 
 class CSVFileManagement:
-
+    """Class that manages the CSV files"""
     def __init__(self, f1: str, f2: str):
         self.reader1 = CSVFileFunctions.read_csv_file_to_file(f1)
         self.reader2 = CSVFileFunctions.read_csv_file_to_file(f2)

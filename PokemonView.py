@@ -5,6 +5,7 @@ from Poke_api import get_pokemon_sprite, get_pokemon_description
 from ImageLoader import ImageLoader
 
 class PokemonView(QFrame):
+    """Widget for the Pokemon"""
     def __init__(self, table, action):
         super().__init__()
         self.table = table

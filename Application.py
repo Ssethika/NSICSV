@@ -14,6 +14,7 @@ from ImageLoader import ImageLoader
 from PokemonView import PokemonView
 
 class Application():
+    """The main body of our application"""
     def __init__(self):
         self.file_manager = CSVFileManagement("file.csv", "file2.csv")
         self.output_reader = CSVFileFunctions.read_csv_file_to_file("output.csv")
