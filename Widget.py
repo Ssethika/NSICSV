@@ -59,7 +59,7 @@ class Table(QWidget):
         self.table.cellClicked.connect(self.action)
 
     def update_table(self):
-        """Update t  he table based on the filters and sorting options."""
+        """Update t   he table based on the filters and sorting options."""
         selected_type = self.type_combo.currentText()
         selected_stat = self.stat_combo.currentText()  # Convert to lowercase for dict keys
 
