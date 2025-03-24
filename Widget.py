@@ -69,7 +69,6 @@ class Table(QWidget):
         # Sort by selected stat if chosen
         if selected_stat in {"Attack", "Defense", "Sp. Attack", "Sp. Defense"}:
             filtered_pokemon.sort(key=lambda p: p[selected_stat], reverse=True)
-            print()
 
         # Apply search filter and update table display
         self.apply_filters(filtered_pokemon)
