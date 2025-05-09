@@ -52,6 +52,8 @@ class ImageLoader(QWidget):
             self.retry_button.show()
 
         else:
+            self.retry_button.hide()
+            self.label.setText("")
             pixmap = QPixmap()
             pixmap.loadFromData(reply.readAll())  # Load into QPixmap
             scaled_pixmap = pixmap.scaled(400, 400, Qt.KeepAspectRatio, Qt.SmoothTransformation)
@@ -59,3 +61,7 @@ class ImageLoader(QWidget):
             self.label.setText("")  # Remove the loading text
 
         reply.deleteLater()  # Clean up network reply
+
+    def handle_network_error(self, error, reply):
+        self.label.setText("Network Error")
+        print(error, reply)

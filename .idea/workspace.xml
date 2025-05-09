@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a2d5bd3-d6d9-46d2-9d50-8048dac46de7" name="Changes" comment="Updated everyrrthing." />
+    <list default="true" id="6a2d5bd3-d6d9-46d2-9d50-8048dac46de7" name="Changes" comment="Updated everyrrthing. Qdded photos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application.py" beforeDir="false" afterPath="$PROJECT_DIR$/Application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageLoader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poke_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/Poke_api.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ssethika"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ssethika&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ssethika/NSICSV.git",
-    "accountId": "ef9c3c78-3503-4266-8c16-d203ebdd04d2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ssethika/NSICSV.git&quot;,
+    &quot;accountId&quot;: &quot;ef9c3c78-3503-4266-8c16-d203ebdd04d2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -43,10 +48,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.code.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.widgets_example (1).executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/crist/Downloads/code.py&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -118,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742800961629</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated everyrrthing. Qdded photos">
+      <option name="closed" value="true" />
+      <created>1742801807677</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742801807677</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -127,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated everything." />
     <MESSAGE value="Updated everyrrthing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated everyrrthing." />
+    <MESSAGE value="Updated everyrrthing. Qdded photos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated everyrrthing. Qdded photos" />
   </component>
 </project>
